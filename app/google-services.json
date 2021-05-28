@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1048553555810",
+    "project_id": "mapboxdemo-27989",
+    "storage_bucket": "mapboxdemo-27989.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1048553555810:android:f15a39fedafefbd98d8e3b",
+        "android_client_info": {
+          "package_name": "com.example.mapboxdemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1048553555810-j18841mua0c4su3a0c115hkhha4iq2ac.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mapboxdemo",
+            "certificate_hash": "8c7cde80ff96ba3dd44e96ad21a80e13d12861d8"
+          }
+        },
+        {
+          "client_id": "1048553555810-lbgt0i6akqilk57th8usiol6c77puer2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mapboxdemo",
+            "certificate_hash": "0aaa0b5a2dcd186dfc7c9124d17ceb1496d80c41"
+          }
+        },
+        {
+          "client_id": "1048553555810-su8kajoolujn2vmarmq6n2u8eeoti8lm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBw69u2fNR_sDusPLd21E9hO6JiHW1A34c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1048553555810-su8kajoolujn2vmarmq6n2u8eeoti8lm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
